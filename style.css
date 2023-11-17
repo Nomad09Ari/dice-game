@@ -1,6 +1,9 @@
 /**********************************************
 *** ЕРӨНХИЙ
 **********************************************/
+
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Lato:wght@300;400;700&family=Poppins:wght@300;400;500;600&family=Roboto+Condensed:wght@300;400&family=Roboto:wght@300;400&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +21,7 @@ body {
     background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.jpg);
     background-size: cover;
     background-position: center;
-    font-family: Lato;
+    font-family: Lato, sans-serif;
     font-weight: 300;
     position: relative;
     height: 100vh;
